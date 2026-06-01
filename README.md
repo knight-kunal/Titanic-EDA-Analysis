@@ -4,6 +4,14 @@
 Perform Exploratory Data Analysis (EDA) on the Titanic dataset to understand patterns, trends, correlations, and important insights using statistics and visualizations.
 
 ---
+## Important Note
+
+If GitHub shows an error while previewing `Titanic_EDA.ipynb`, please download the notebook and open it using:
+
+- Jupyter Notebook
+- Google Colab
+
+The notebook file has been uploaded successfully and runs correctly in Google Colab. The GitHub preview issue is a rendering problem and does not affect the notebook content.
 
 ## Tools Used
 
